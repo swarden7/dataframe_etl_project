@@ -12,4 +12,4 @@ Cada notebook está acompañado de una descripción detallada de su propósito, 
 ¡Las contribuciones son bienvenidas! Si deseas agregar tu propio proyecto de ETL o mejorar alguno de los existentes, siéntete libre de hacer un "fork" de este repositorio, realizar tus cambios y enviar un "pull request".
 
 ## Contacto
-Si tienes preguntas, sugerencias o comentarios, no dudes en ponerte en contacto conmigo a través de [correo electrónico](imixqanil@gmail.com) o [abriendo un issue](https://github.com/swarden7/dataframe_etl_projects/issues).
+Si tienes preguntas, sugerencias o comentarios, no dudes en ponerte en contacto conmigo a través de [correo electrónico](imixqanil@gmail.com) o [abriendo un issue](https://github.com/swarden7/dataframe_etl_project/issues).
